@@ -39,5 +39,15 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "author": "m3yevn",
+  "funFacts": [],
+  "badges": [],
+  "techStacks": [
+    "React for rendering",
+    "Style Xper JSS for Styling",
+    "Zustand for State"
+  ],
+  "publicUrl": "",
+  "screenshots": []
 }
